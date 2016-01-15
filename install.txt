@@ -1,0 +1,4 @@
+//go to Terminal and open this directory.
+//Then type "make install".
+//Now you get a executable file shield
+//Run it by typing ./shield 
